@@ -60,11 +60,5 @@ public class UserController {
         }
 
     }
-    @RequestMapping("a_login")
-    public void s(){
-
-
-
-    }
 
 }
